@@ -13,6 +13,6 @@ iOS Device supporting Bluetooth LE with iOS 6.
 
 Screenshot
 -------------------------
-![Screenshot of nearby devices scanner app](https://raw.github.com/MiniCodeMonkey/Nearby-devices-scanner/master/screenshot.png))
+![Screenshot of nearby devices scanner app](https://raw.github.com/MiniCodeMonkey/Nearby-devices-scanner/master/screenshot.png)
 
 Mathias Hansen - <me@codemonkey.io>
